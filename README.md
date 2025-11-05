@@ -10,7 +10,7 @@
 **Abstract:** "This book offers a gentle introduction to Threat Modelling (TM) Connected and Autonomous Vehicles (CAV). It discusses the underpinnings of cybersecurity, and explains what is meant by TM in automotive contexts. The manuscript offers an overview of techniques, approaches, and examples of TM in CAVs, outlining vulnerabilities, modelling decisions, standardisation, and compliance."
 
 # Contributions
-One remarkable thing that the book unveils is the relationship between standards namely ISO 31000:2018 and ISO/SAE 21434:2021:
+One remarkable thing that the book unveils is the relationship between standards namely ISO 31000:2018 and ISO/SAE 21434:2021: in blue, there is some ISO 31000:2018 definitions, showcasing that they share a lot of principles altogether.
 ![ISO comparison](iso-comparison.png)
 
 # License
