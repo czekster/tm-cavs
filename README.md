@@ -7,6 +7,8 @@
 
 **Publisher:** Self Publishers Worldwide
 
+**DOI Link:** [10.6084/m9.figshare.30529874](https://dx.doi.org/10.6084/m9.figshare.30529874)
+
 **Abstract:** "This book offers a gentle introduction to Threat Modelling (TM) Connected and Autonomous Vehicles (CAV). It discusses the underpinnings of cybersecurity, and explains what is meant by TM in automotive contexts. The manuscript offers an overview of techniques, approaches, and examples of TM in CAVs, outlining vulnerabilities, modelling decisions, standardisation, and compliance."
 
 # Contributions
@@ -18,7 +20,6 @@ The book is under Creative Commons (CC BY 4.0).
 
 Feel free to use it and attribute the original source.
 
-DOI Link: [10.6084/m9.figshare.30529874](https://dx.doi.org/10.6084/m9.figshare.30529874)
 
 # Contact
 Reach me at rczekster at gmail
